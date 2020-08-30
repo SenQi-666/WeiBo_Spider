@@ -17,16 +17,16 @@ jieba分词提取出评论内容中出现频率较高的词语，并使用wordcl
 ------
 
 ```
-├── Analysis_Processing.py					--->	情感分析
-├── CookiesProxy_Processing.py			--->	获取代理，Cookie
-├── EmotionAnalysis.png							--->	情感分析生成文件
-├── JieBa_Processing.py							--->	jieba分词
-├── MySQL_Control.py								--->	MySQL数据库存储
-├── Spider_WeiBo.py									--->	爬虫主程序
-├── Time_Processing.py							--->	时间格式化
-├── WordCloud_Processing.py					--->	词云制作
-├── stop_words.txt									--->	分词所需停用词文件
-├── wordcloud.png										--->	词云生成文件		
+├── Analysis_Processing.py	 --->	情感分析
+├── CookiesProxy_Processing.py	 --->	获取代理，Cookie
+├── EmotionAnalysis.png	 --->	情感分析生成文件
+├── JieBa_Processing.py	 --->	jieba分词
+├── MySQL_Control.py	 --->	MySQL数据库存储
+├── Spider_WeiBo.py	 --->	爬虫主程序
+├── Time_Processing.py	 --->	时间格式化
+├── WordCloud_Processing.py	  --->	词云制作
+├── stop_words.txt	 --->	分词所需停用词文件
+├── wordcloud.png	 --->	词云生成文件		
 └── README.md
 ```
 
@@ -37,12 +37,12 @@ jieba分词提取出评论内容中出现频率较高的词语，并使用wordcl
 ------
 
 ```
-usrid					--->	用户id
-usrname				--->	用户名
-usrgender			--->	用户性别
+usrid	 --->	用户id
+usrname 	--->	用户名
+usrgender	 --->	用户性别
 comment_date	--->	评论日期
 comment_time	--->	评论时间
-content				--->	评论内容
+content	 --->	评论内容
 ```
 
 
